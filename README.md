@@ -9,17 +9,17 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+CHIKKUSIR+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+CHIKKUSIR+WA+Bot...;Created+by+THABIN....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-CHIKKUSIR-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-thabinpk?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/thabinpk">thabinpk</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,13 +29,13 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/thabinpk/CHIKKUSIR ">
+    <img src="https://img.shields.io/github/repo-size/thabinpk/CHIKKUSIR?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/thabinpk?color=grey&style=plastic"></a>
+<a href="https://github.com/thabinpk/CHIKKUSIR/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/thabinpk/CHIKKUSIR?color=grey&style=plastic"></a>
+<a href="https://github.com/thabinpk/CHIKKUSIR/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/CHIKKUSIR?color=grey&style=plastic"></a>
+<a href="https://github.com/thabinpk/CHIKKUSIR/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/thabinpk/CHIKKUSIR?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/thabinpk?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -53,9 +53,9 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 
 <a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thabinpk&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thabinpk&theme=dark" alt="thabin" /></p>
 </p>
     
 ```
